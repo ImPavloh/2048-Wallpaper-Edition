@@ -5,7 +5,7 @@ A Python implementation of the 2048 game that uses your desktop wallpaper to dis
 
 1. Clone this repository:
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/2048-wallpaper.git
+https://github.com/ImPavloh/2048-Wallpaper-Edition.git
 ```
 
 2. Navigate to the project folder:
