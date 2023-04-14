@@ -1,5 +1,5 @@
 # 2048 Wallpaper Edition 
-A Python implementation of the 2048 game that uses your desktop wallpaper to display the game board.
+A Python implementation of the 2048 game that uses your desktop wallpaper to display the game.
 
 ## 🚀 Installation & usage
 
