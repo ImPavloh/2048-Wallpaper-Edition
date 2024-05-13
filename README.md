@@ -23,9 +23,11 @@ Run the game:
 ```
 python 2048.py
 ```
-Control the game using the arrow keys to move the tiles in the desired direction. Press 'R' to restart the game.
+Control the game using 'W A S D' or the arrow keys to move the tiles in the desired direction.
+Press 'R' to restart the game or exit the game pressing 'ESC'.
+You can also activate "Hack mode" pressing 'M'.
 
-### 🖥️ This implementation is designed for **Windows systems**.
+### 🖥️ This implementation is designed for **Windows** and **Linux** systems. *Linux not tested yet!*
 
 
 # Support the project ☕
